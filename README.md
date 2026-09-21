@@ -107,6 +107,6 @@ BSc Information Technology – Software Engineering
 Eduvos
 
 GitHub: [@kayla014](https://github.com/kayla014)
-kayla014 - Overview
+kayla014 -
 BSc IT (Software Engineering) Student at Eduvos | Aspiring Software Engineer - kayla014
  
