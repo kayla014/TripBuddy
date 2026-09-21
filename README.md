@@ -16,11 +16,51 @@ TripBuddy is an Android travel planning application developed to help users orga
 
 - Trip summary
 
+- Settings and application management
+
 - Local data storage
 
 - Loyalty and reward functionality
 
 - User-friendly Android interface
+
+## Screenshots
+
+### Splash Screen
+
+![TripBuddy Splash Screen](screenshots/splash_screen.png)
+
+### Login
+
+![TripBuddy Login](screenshots/login.png)
+
+### Welcome
+
+![TripBuddy Welcome](screenshots/welcome.png)
+
+### Dashboard
+
+![TripBuddy Dashboard](screenshots/dashboard.png)
+
+### Budget
+
+![TripBuddy Budget](screenshots/budget.png)
+
+### Gallery
+
+![TripBuddy Gallery](screenshots/gallery.png)
+
+### Memories
+
+![TripBuddy Memories](screenshots/memory.png)
+
+### Settings
+
+![TripBuddy Settings](screenshots/settings.png)
+
+### Trip Summary
+
+![TripBuddy Summary](screenshots/summary.png)
 
 ## Technologies Used
 
@@ -40,9 +80,11 @@ TripBuddy is an Android travel planning application developed to help users orga
 
 ## Application Structure
 
-The application uses multiple Android activities to separate functionality, including:
+The application uses multiple Android activities to separate different areas of functionality, including:
 
 - Login
+
+- Welcome
 
 - Home Dashboard
 
@@ -78,7 +120,7 @@ This project demonstrates practical application of:
 
 ## Project Purpose
 
-TripBuddy was developed as part of my Bachelor of Science in Information Technology studies at Eduvos. The project provided practical experience in designing and developing an Android application while applying software engineering and database concepts.
+TripBuddy was developed as part of my Bachelor of Science in Information Technology studies at Eduvos. The project provided practical experience in designing and developing an Android application while applying software engineering, database and mobile application development concepts.
 
 ## Key Learning Outcomes
 
@@ -107,6 +149,6 @@ BSc Information Technology – Software Engineering
 Eduvos
 
 GitHub: [@kayla014](https://github.com/kayla014)
-kayla014 -
+kayla014 - Overview
 BSc IT (Software Engineering) Student at Eduvos | Aspiring Software Engineer - kayla014
  
