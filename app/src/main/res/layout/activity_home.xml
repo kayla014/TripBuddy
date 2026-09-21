@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:attr/windowBackground">
+
+    <Button
+        android:id="@+id/galleryBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gallery"
+        android:backgroundTint="@color/purple_500"
+        android:textColor="@color/on_purple"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/memoriesBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Memories"
+        android:backgroundTint="@color/purple_500"
+        android:textColor="@color/on_purple"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/budgetBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Budget"
+        android:backgroundTint="@color/purple_500"
+        android:textColor="@color/on_purple"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/settingsBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Settings"
+        android:backgroundTint="@color/purple_500"
+        android:textColor="@color/on_purple"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/logoutBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:backgroundTint="@color/purple_500"
+        android:textColor="@color/on_purple"/>
+</LinearLayout>

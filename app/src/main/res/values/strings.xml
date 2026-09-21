@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TripBuddy</string>
+    <string name="new_trip">New Trip</string>
+    <string name="trip_summary_title">Trip Summary</string>
+    <string name="subtotal">Subtotal:</string>
+    <string name="discount">Discount:</string>
+    <string name="total">Total:</string>
+</resources>
