@@ -150,5 +150,5 @@ Eduvos
 
 GitHub: [@kayla014](https://github.com/kayla014)
 kayla014 - Overview
-BSc IT (Software Engineering) Student at Eduvos | Aspiring Software Engineer - kayla014
+BSc IT (Software Engineering) Student at Eduvos | Software Engineering Student - kayla014
  
